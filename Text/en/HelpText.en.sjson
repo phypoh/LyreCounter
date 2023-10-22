@@ -1,0 +1,9 @@
+{
+	Texts = [
+		"_append"
+		{
+			Id = "LyreCounterText",
+			DisplayName = "{#CombatTextHighlightFormat}Lyre Skill: {#PreviousFormat}{$TempTextData.Amount}"
+		}
+	]
+}
