@@ -24,7 +24,7 @@
 ## Installation instructions: 
 
 1. Make sure you fulfill the above pre-requisites. (You should have the **latest version** of all pre-reqs listed above, or else the mod installation will have errors!)
-2. Download the LyreCounter mod from on Nexus, or from [GitHub](https://github.com/phypoh/LyreCounter/releases). 
+2. Download the LyreCounter mod from on [Nexus](https://www.nexusmods.com/hades/mods/167), or from [GitHub](https://github.com/phypoh/LyreCounter/releases). 
 3. Place the unzipped contents in the *Hades\Content\Mods* folder. (If the *Mods* folder does not yet exist, it should be created.)
 4. Run the *Hades\Content\modimporter.exe* executable.
 5. Open *Hades* and start playing!
